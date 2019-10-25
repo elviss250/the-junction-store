@@ -1,2 +1,5 @@
 # the-junction-store
-Selling clothes online and provide shipping 
+Selling different clothes online
+provide shipping
+provide refund
+and many more
